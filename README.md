@@ -14,6 +14,9 @@ WeiyunHelper 是微云的辅助脚本，拥有以下功能：
 
 👉🏼 [https://greasyfork.org/zh-CN/scripts/402669-weiyunhelper](https://greasyfork.org/zh-CN/scripts/402669-weiyunhelper)
 
+然後再以本分支版 ``weiyun.user.js`` 的內容手動覆蓋你本地所安裝的腳本。  
+
+
 ### ~~配置 AriaNg~~
 
 ~~因为目前没有直接调用 Aria2 的接口，依赖了 AriaNg 的服务。所以需要使用的用户使用 [http://aria2.pigfly.im/ariang/](http://aria2.pigfly.im/ariang/) 进行对应的设置后使用。~~
